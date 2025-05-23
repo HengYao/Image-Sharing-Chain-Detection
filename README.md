@@ -1,5 +1,6 @@
 ### Paper Information
 - **Paper Link**: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10945501)
+-  please cite the paper as J. Wei, H. Yao*, N. Wang, C. Qin, Dual-color space hierarchical classification network for image-sharing chain detection, IEEE Transactions on Instrumentation and Measurement, vol. 74, art. no. 5024111, 2025.  
 
 ### Core Code
 #### 1. Dual Color Space Hierarchical Network
